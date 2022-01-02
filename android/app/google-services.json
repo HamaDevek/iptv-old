@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658960692864",
+    "firebase_url": "https://iptv-aa588.firebaseio.com",
+    "project_id": "iptv-aa588",
+    "storage_bucket": "iptv-aa588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658960692864:android:923a0a0d6e804a7c609865",
+        "android_client_info": {
+          "package_name": "tv.newpro.iptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658960692864-roqo0r7asi6tkeq5n8gsjqp3ig5ocfen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVk3-qc6LCuLKCVrdNSrIQs3sQm6CuokA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658960692864-roqo0r7asi6tkeq5n8gsjqp3ig5ocfen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
